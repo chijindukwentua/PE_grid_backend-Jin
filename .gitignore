@@ -1,0 +1,5 @@
+/api/venv
+
+/database/node_modules
+
+/database/.env

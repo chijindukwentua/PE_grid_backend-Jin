@@ -1,0 +1,53 @@
+{
+  "user_id": 1,
+  "meter_id": 2562354,
+  "account_no": 544599562,
+  "phone": "07060951036",
+  "dob": "17/12/1990",
+  "email": "johnnybravo@josla.com.ng",
+  "first_name": "Johnny",
+  "last_name": "Bravo",
+  "password": "notacoward295",
+  "address": "14, Adeniran Ogunseye street",
+  "lga": "Yaba",
+  "city": "Lagos",
+  "state": "Lagos",
+  "no_of_occupants": 5,
+  "bank": "Access",
+  "bank_acct_no": "0755459145",
+  "card_no": 5489454515487846,
+  "cvv": 721,
+  "created_at": "15/08/2020"
+}
+
+{
+  "index": {
+    "fields": [
+      "user_id"
+    ]
+  },
+  "name": "user-index",
+  "type": "json"
+}
+
+{
+  "index": {
+    "fields": [
+      "user_id",
+      "meter_id"
+    ]
+  },
+  "name": "user-meter-index",
+  "type": "json"
+}
+
+{
+  "index": {
+    "fields": [
+      "user_id",
+      "account_no"
+    ]
+  },
+  "name": "user-account-index",
+  "type": "json"
+}

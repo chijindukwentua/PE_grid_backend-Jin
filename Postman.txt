@@ -1,0 +1,3 @@
+Link to Postman test collection:
+
+https://www.getpostman.com/collections/03b8ef7c6af2f96df90d
